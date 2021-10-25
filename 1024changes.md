@@ -1,0 +1,5 @@
+- Based Image with theme and Custom Home Directory is complete
+- Kernel Patches have been added to increase stability and speed
+- Removed Trizen and added yay as AUR Helper
+- Install AUR Host is https://aur.kmprojects.us/arch
+- Base Stability tweaks and more...

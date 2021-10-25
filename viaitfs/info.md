@@ -1,3 +1,5 @@
+Note: These Directorys are implmented, but are not yet fully functional 
+
 ```bash
 #viaitfs directories
 XDG_VIAITDEV_DIR="$HOME/Projects" #Dev projects stored here

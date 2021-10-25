@@ -2,4 +2,5 @@
 - Kernel Patches have been added to increase stability and speed
 - Removed Trizen and added yay as AUR Helper
 - Install AUR Host is https://aur.kmprojects.us/arch
-- Base Stability tweaks and more...
+- Linux-zen and linux included (linux will be removed in stable builds)
+- ViaitFS (Custom Home directory) See more [Here](viaitfs/info.md)
